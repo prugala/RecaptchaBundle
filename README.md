@@ -28,7 +28,7 @@ pr_recaptcha:
 https://developers.google.com/recaptcha/docs/faq#hiding-badge
 
 `**` If you plan to use reCAPTCHA globally please use host `www.recaptcha.net`. 
-More informations:
+More for informations visit:
 https://developers.google.com/recaptcha/docs/faq#can-i-use-recaptcha-globally
         
 #### How to use
